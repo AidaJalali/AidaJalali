@@ -5,7 +5,7 @@ I'm Aida Jalali, a third-year Computer Engineering student at Sharif University 
 ---
 
 ## 💻 **Technical Skills**  
-- **Programming Languages**: Java, Python, C++, SQL , R 
+- **Programming Languages**: Java, Python, C, C++, SQL, R, Go 
 - **Frameworks**: Django, JavaFX  
 
 ---

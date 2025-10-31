@@ -4,9 +4,9 @@ I'm Aida Jalali, a third-year Computer Engineering student at Sharif University 
 
 ---
 
-🌟 **Contact**: 
-- Email: 📧 [aidajalaliii@gmail.com](mailto:aidajalaliii@gmail.com)
-- LinkedIn: 🔗 [https://www.linkedin.com/in/aidajalali](https://www.linkedin.com/in/aidajalali)
+ **Contact**: 
+- Email:  [aidajalaliii@gmail.com](mailto:aidajalaliii@gmail.com)
+- LinkedIn:  [https://www.linkedin.com/in/aidajalali](https://www.linkedin.com/in/aidajalali)
 
 
 ---

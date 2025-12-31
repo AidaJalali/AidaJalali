@@ -1,12 +1,9 @@
-## Hi there 
+Hey there!
 
-I'm Aida Jalali, a third-year Computer Engineering student at Sharif University of Technology. I am particularly interested in database modeling, big data distributed databases, artificial intelligence, and web development. These fields excite me and I am eager to deepen my knowledge and expertise in these areas.
+I'm Aida Jalali, a fourth-year Computer Engineering student at Sharif University of Technology. I’m passionate about distributed systems, data engineering, and AI. I’m always excited to learn more and dive deeper into these fields.
 
----
+Get in touch:
 
- **Contact**: 
-- Email:  [aidajalaliii@gmail.com](mailto:aidajalaliii@gmail.com)
-- LinkedIn:  [https://www.linkedin.com/in/aidajalali](https://www.linkedin.com/in/aidajalali)
+Email: aidajalaliii@gmail.com
 
-
----
+LinkedIn: https://www.linkedin.com/in/aidajalali
